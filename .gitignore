@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python cache/test artifacts
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+
+# Tests
+tests/
+
+.venv/
+venv/
+
